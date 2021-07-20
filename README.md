@@ -10,4 +10,4 @@ This is a simple increse, decrese and reset counter.
 
 The technologies used for this project are HTML, CSS and JavaScript.
 
-[Website link](https://sarav92.github.io/javascript-counter/https://sarav92.github.io/javascript-counter/)
+[Website link](https://sarav92.github.io/counter-js/)
